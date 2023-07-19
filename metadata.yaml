@@ -1,0 +1,41 @@
+_repo: John-Baskerville-type-founder-and-printer-1706-1775_71072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benton, Josiah H., Jr. (Josiah Henry)
+    aliases:
+    - Benton, J. H., Jr. (Josiah Henry)
+    - Benton, Josiah Henry
+    birthdate: 1843
+    deathdate: 1917
+    gutenberg_agent_id: '56039'
+    url: http://www.gutenberg.org/2009/agents/56039
+description: Based on a paper prepared and read at a meeting of the Boston Society
+  of Printers, Feb. 24, 1914. See "Note."
+gutenberg_issued: '2023-06-30'
+identifiers:
+  gutenberg: '71072'
+  lccn: '14016744'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924029503020/
+pgterms:marc905: 20230401102234benton
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Merrymount Press, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printers -- Great Britain -- Biography'
+- !lcsh 'Baskerville, John, 1706-1775'
+- !lcsh 'Printing -- England -- Birmingham -- History -- 18th century'
+- !lcsh 'Early printed books -- England -- Birmingham -- 18th century -- Bibliography'
+- !lcsh 'Type and type founding -- England -- History -- 18th century'
+- !lcsh 'Birmingham (England) -- Biography'
+- !lcsh 'Birmingham (England) -- Imprints'
+- !lcc 'Z'
+- GITenberg
+title: John Baskerville, type-founder and printer, 1706-1775
+url: http://www.gutenberg.org/ebooks/71072
