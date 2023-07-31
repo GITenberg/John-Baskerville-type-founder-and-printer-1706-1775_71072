@@ -1,5 +1,8 @@
 _repo: John-Baskerville-type-founder-and-printer-1706-1775_71072
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71072-h/images/cover.jpg
 creator:
   author:
     agent_name: Benton, Josiah H., Jr. (Josiah Henry)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56039
 description: Based on a paper prepared and read at a meeting of the Boston Society
   of Printers, Feb. 24, 1914. See "Note."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71072#John-Baskerville-type-founder-and-printer-1706-1775
 gutenberg_issued: '2023-06-30'
 identifiers:
   gutenberg: '71072'
